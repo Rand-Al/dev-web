@@ -1,0 +1,31 @@
+.bgBorder {
+  background-color: #eee;
+  border-radius: 0.5rem;
+}
+.imgWidth {
+  width: 150px;
+  height: auto;
+}
+
+.flexBasis {
+  max-width: 30%;
+}
+.fontXXl {
+  font-size: 22px;
+  font-weight: 500;
+}
+.fontXl {
+  font-size: 18px;
+  font-weight: 400;
+}
+.success {
+  border: 1px solid rgba(0, 0, 0, 0.075);
+  border-radius: 5px;
+  background-color: rgba(67, 196, 16, 0.877);
+  width: 100%;
+  padding: 10px 20px;
+  color: #fff;
+  margin-top: 10px;
+}
+.arrow {
+}
